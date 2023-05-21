@@ -1,0 +1,9 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\bin\Debug\Composite.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\bin\Debug\Composite.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\bin\Debug\Composite.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\obj\Debug\Composite.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\obj\Debug\Composite.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\obj\Debug\Composite.csprojResolveAssemblyReference.cache
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\bin\Debug\Composite.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\obj\Debug\Composite.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Composite\Composite\obj\Debug\Composite.pdb
